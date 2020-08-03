@@ -14,7 +14,7 @@ namespace Win2Utf
             if (args.Length != 3)
             {
                 Console.WriteLine("Convert any encoding file to UTF8");
-                Console.WriteLine("Useful for difrent non-unicode settings of your OS");
+                Console.WriteLine("Useful for difrent non-unicode textfiles");
                 Console.WriteLine("for example Read windows-1250 on windows-1251 system.");
                 Console.WriteLine("");
                 Console.WriteLine("win2UTF.exe full_path_in_file.txt out_name.txt encoding");                                
